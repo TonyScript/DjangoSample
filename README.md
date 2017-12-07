@@ -16,7 +16,7 @@ Part 6: Static files
 Part 7: Customizing the admin site
 
 
-### postscript: cmd lines may needed
+### postscript: cmd lines may need
 
 python3 manage.py runserver
 
